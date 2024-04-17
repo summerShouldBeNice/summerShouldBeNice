@@ -1,7 +1,7 @@
 - 👋 Hi, I’m warmwind
 - As you can see
 - I’m a rookie
-- My email is 2693387413@qq.com
+- My email is windmeetcloud@gmail.com
 
 <!---
 summerShouldBeNice/summerShouldBeNice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
